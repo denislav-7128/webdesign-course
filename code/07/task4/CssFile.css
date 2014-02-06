@@ -1,0 +1,22 @@
+* { padding: 0; margin: 0; }
+
+.container {
+	width: 60%;
+	margin: 0 auto;
+	padding: 20px;
+	border: 1px solid #000;
+}
+
+.menu {
+	overflow: hidden;
+	padding: 20px 0;
+} 
+
+.menuEl{
+	width: 20%;
+	padding: 10px;
+	background: #C0C0C0;
+	border: 5px solid #FFFFFF;
+	float: left;
+}
+
